@@ -1,6 +1,7 @@
 // 加个背景图片
 .is-2-column { 
     //background-image: url(https://res.lolicon.app/bilibili/bg_small.png);
+	background-image: url(https://alanm.eu.org/blog/img/testbg.webp);
     background-position: center center;
     background-repeat:  no-repeat;
     background-attachment: fixed;
@@ -23,12 +24,12 @@
 
 @media screen and (min-width: 1104px), print {
     .column.is-4, .column.is-4-tablet, .is-4-desktop, .is-4-widescreen {
-        width: 25%    
+        width: 20%    
         max-width: 25rem;
     }
 
     .column.is-8, .column.is-8-tablet, .is-8-desktop, .is-8-widescreen {
-        width: 70%;
+        width: 65%;
     }
 }
 
