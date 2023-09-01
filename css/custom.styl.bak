@@ -1,7 +1,6 @@
 // 加个背景图片
 .is-2-column { 
-    //background-image: url(https://res.lolicon.app/bilibili/bg_small.png);
-	background-image: url(https://alanm.eu.org/blog/img/testbg.webp);
+    background-image: url(https://res.lolicon.app/bilibili/bg_small.png);
     background-position: center center;
     background-repeat:  no-repeat;
     background-attachment: fixed;

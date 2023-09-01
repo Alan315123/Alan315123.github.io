@@ -1,9 +1,9 @@
 .is-2-column {
-  background-image: url("https://alanm.eu.org/blog/img/testbg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: #fbfffd;
 }
 .widget {
   background-color: rgba(255,255,255,0.812);
